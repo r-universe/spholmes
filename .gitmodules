@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "XICOR"]
+	path = XICOR
+	url = https://github.com/cran/XICOR
+	shallow = true
+	registered = true
