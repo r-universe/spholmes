@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "XICOR"]
 	path = XICOR
-	url = https://github.com/cran/XICOR
+	url = https://github.com/spholmes/xicor
 	shallow = true
 	registered = true
